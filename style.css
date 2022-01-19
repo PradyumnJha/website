@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+padding: 0;
+margin: 0;
+}
+
+/* Navbar */
+nav {
+    padding: 50px ;
+    
+}
+.navbar {
+    margin-top: 0;
+}
+
+
+
+#brand-name {
+  color: rgb(239, 255, 8);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+
+.brand-name {
+    color:blueviolet;
+
+}
+
+.nav-item {
+padding: 5px;
+}
+
+/* Section 1 */
+
+.sec-type-1 {
+    background-color: rgb(255, 238, 0);
+ 
+   }
+ .col-type-1 {
+  padding: 5% 30px;
+  background-color: #fff;
+   }
+
+   .col-type-1 h1,p {
+   color: rgb(0, 0, 0);
+     }
+
+ .col-type-2 {
+    padding: 5% 30px;
+ 
+     }
+     .col-type-2 h1 {
+       color: inherit;
+     
+         }
+
+   .sec-type-1 h1 {
+       color: black;
+       font-family: 'Montserrat', sans-serif;
+       font-weight: bolder;
+       font-size: 2rem;
+       text-align: center;
+   }
+.sec-type-1 p{
+    text-align: center;
+}
+   .vid-embed {
+border: 5px ridge rgb(99, 99, 99);
+   }
+
+   /* Section 2 */
+   .sec-type-2 {
+    background-color: rgb(75, 0, 0);
+    color: rgb(255, 255, 255);
+   }
+
+    .sec-type-2 h1{
+       
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bolder;
+        font-size: 2rem;
+        text-align: center;
+    }
+ .sec-type-2 p{
+     text-align: center;
+ }
+
+ .img-center {
+     width:100px;
+     height: auto;
+     border-radius: 50%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     position: relative;
+     bottom:5%;
+ }
+
+
+ /* Footer */
+
+.footer {
+    background-color: rgb(221, 221, 221);
+    padding: 3%;
+    margin-bottom: 0;
+}
+
+.footer h1{
+       padding: 2.5% 5% 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.footer p{
+    text-align: center;
+}
+
+.icon {
+  font-size: 2rem;
+  padding:  2.3%;
+}
+#telegram {
+color: rgb(85, 85, 255);
+}
+
+#youtube {
+    color: red;
+}
+
+#mail {
+    color: rgb(87, 49, 2);
+}
